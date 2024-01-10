@@ -1,4 +1,2 @@
-# National-PKNU
-##### 저희 이케아 페이지 만드는걸로 할까요 아님 그냥 그대로 할까용
-###### 이케아도 좋습니다.
+# IKEA-PKNU
 ![duck](./image/KakaoTalk_20240110_135857998.gif)
